@@ -1,0 +1,38 @@
+body{
+    background: black;
+}
+
+.container{
+    background: white;
+    width: 500px;
+    position: absolute;
+  	top:50%;
+  	left: 50%;
+  	transform: translate(-50%,-50%);
+}
+
+.row{
+    padding-top: 2%;
+    padding-bottom: 1%;
+}
+
+.col-10 p{
+    margin-bottom: 0px;
+}
+
+img{
+	width: 100%;
+    }
+
+.col-12{
+    padding: 0px;
+}
+
+#book{
+    padding-left: 0px;
+}
+
+#lorem{
+    padding-left: 15px;
+    padding-right: 15px;
+}
